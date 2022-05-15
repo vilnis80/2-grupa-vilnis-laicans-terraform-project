@@ -1,0 +1,1 @@
+# 2-grupa-vilnis-laicans-terraform-project
